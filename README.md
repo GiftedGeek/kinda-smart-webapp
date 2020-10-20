@@ -1,3 +1,18 @@
+A Simple Fullstack React App (Kinda Smart app)
+Stack Used:
+React
+PostgreSQL
+Node JS
+
+Libraries used:
+Tachyons CSS Toolkit
+Particles.js
+
+API Used:
+Clarifai
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
